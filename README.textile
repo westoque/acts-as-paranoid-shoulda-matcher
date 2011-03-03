@@ -1,0 +1,3 @@
+h1. Notes
+
+p(). Make sure the class is loaded before the tests/specs.
