@@ -1,4 +1,4 @@
-# ActsAsParanoid shoulda matcher
+ActsAsParanoid shoulda matcher.
 
 ## Usage
 
